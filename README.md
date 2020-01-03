@@ -2,7 +2,7 @@
 
 ## Live Webpage
 
-Visit my website at bbastedo.github.io for a live demonstration of this exercise. 
+Visit my website at http://bbastedo.github.io for a live demonstration of this exercise. 
 
 ## Background
 
